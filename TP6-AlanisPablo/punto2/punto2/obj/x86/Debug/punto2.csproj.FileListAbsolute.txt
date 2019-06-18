@@ -1,0 +1,5 @@
+c:\users\usuario\documents\visual studio 2010\Projects\punto2\punto2\bin\Debug\punto2.exe
+c:\users\usuario\documents\visual studio 2010\Projects\punto2\punto2\bin\Debug\punto2.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\punto2\punto2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2010\Projects\punto2\punto2\obj\x86\Debug\punto2.exe
+c:\users\usuario\documents\visual studio 2010\Projects\punto2\punto2\obj\x86\Debug\punto2.pdb
